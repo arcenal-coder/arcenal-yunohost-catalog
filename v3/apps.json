@@ -60,11 +60,11 @@
       "subtags": [],
       "antifeatures": [],
       "potential_alternative_to": [],
-      "lastUpdate": 1788971092,
+      "lastUpdate": 1788971455,
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalcatalog_ynh",
         "branch": "main",
-        "revision": "875f9fb2c182d6b873c20fca13d05a8e848be60e"
+        "revision": "a07dd34a6b60315d1ffcaaef2989ecf3f311000e"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -75,7 +75,7 @@
           "fr": "Ajoute le catalogue d’applications ARCenal à YunoHost",
           "en": "Adds the ARCenal application catalog to YunoHost"
         },
-        "version": "1.0.1~ynh1",
+        "version": "1.0.2~ynh1",
         "maintainers": [
           "ARCenal"
         ],
