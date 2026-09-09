@@ -48,6 +48,55 @@
           }
         }
       }
+    },
+    "arcenalcatalog": {
+      "id": "arcenalcatalog",
+      "level": 8,
+      "state": "working",
+      "maintained": true,
+      "high_quality": false,
+      "featured": false,
+      "category": "system_tools",
+      "subtags": [],
+      "antifeatures": [],
+      "potential_alternative_to": [],
+      "lastUpdate": 1788970446,
+      "git": {
+        "url": "https://github.com/arcenal-coder/arcenalcatalog_ynh",
+        "branch": "main",
+        "revision": "7f6fd5da56c0572be3dece5d318deb5a56452be7"
+      },
+      "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
+      "manifest": {
+        "packaging_format": 2,
+        "id": "arcenalcatalog",
+        "name": "Catalogue ARCenal",
+        "description": {
+          "fr": "Ajoute le catalogue d’applications ARCenal à YunoHost",
+          "en": "Adds the ARCenal application catalog to YunoHost"
+        },
+        "version": "1.0.0~ynh1",
+        "maintainers": [
+          "ARCenal"
+        ],
+        "upstream": {
+          "license": "GPL-3.0-or-later",
+          "code": "https://github.com/arcenal-coder/arcenalcatalog_ynh"
+        },
+        "integration": {
+          "yunohost": ">= 12.1",
+          "helpers_version": "2.1",
+          "architectures": "all",
+          "multi_instance": false,
+          "ldap": false,
+          "sso": false,
+          "disk": "1M",
+          "ram": {
+            "build": "10M",
+            "runtime": "1M"
+          }
+        }
+      }
     }
   },
   "categories": [],
