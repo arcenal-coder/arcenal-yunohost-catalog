@@ -1,0 +1,60 @@
+{
+  "apps": {
+    "arcenalportail": {
+      "id": "arcenalportail",
+      "level": 8,
+      "state": "working",
+      "maintained": true,
+      "high_quality": false,
+      "featured": true,
+      "category": "productivity_and_management",
+      "subtags": [],
+      "antifeatures": [],
+      "potential_alternative_to": [],
+      "lastUpdate": 1788970330,
+      "git": {
+        "url": "https://github.com/arcenal-coder/arcenalportail_ynh",
+        "branch": "main",
+        "revision": "36b56bcede7fe68724223d3e0d8cc8aa000423e7"
+      },
+      "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
+      "manifest": {
+        "packaging_format": 2,
+        "id": "arcenalportail",
+        "name": "ARCenal Portail",
+        "description": {
+          "fr": "Portail équipier QSSE relié au module Dolibarr ARCenal QSSE",
+          "en": "Employee QSSE portal connected to the ARCenal QSSE Dolibarr module"
+        },
+        "version": "0.4.4~beta1+ynh1",
+        "maintainers": [
+          "ARCenal"
+        ],
+        "upstream": {
+          "license": "GPL-3.0-or-later",
+          "code": "https://github.com/arcenal-coder/arcenalportail_ynh"
+        },
+        "integration": {
+          "yunohost": ">= 12.1",
+          "helpers_version": "2.1",
+          "architectures": "all",
+          "multi_instance": true,
+          "ldap": true,
+          "sso": true,
+          "disk": "20M",
+          "ram": {
+            "build": "20M",
+            "runtime": "32M"
+          }
+        }
+      }
+    }
+  },
+  "categories": [],
+  "antifeatures": [],
+  "security": {
+    "version": 1,
+    "apps": {},
+    "system": {}
+  }
+}
