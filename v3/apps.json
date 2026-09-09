@@ -15,7 +15,7 @@
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalportail_ynh",
         "branch": "main",
-        "revision": "469dc4030bb32ae12e9bc65926bab59593df23cc"
+        "revision": "469dc40c0b1920ee0986954068209b998ecba5d2"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -64,7 +64,7 @@
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalcatalog_ynh",
         "branch": "main",
-        "revision": "875f9fb4bf6c13b04b2888de359354389a16304b"
+        "revision": "875f9fb2c182d6b873c20fca13d05a8e848be60e"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
