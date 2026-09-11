@@ -109,11 +109,11 @@
       "subtags": [],
       "antifeatures": [],
       "potential_alternative_to": [],
-      "lastUpdate": 1789116630,
+      "lastUpdate": 1789117156,
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalbridge_ynh",
         "branch": "main",
-        "revision": "fe9129b196d92183233241d53fc5a2da4784e0a9"
+        "revision": "73baabde8e3ff50f03fd0ab8f8a1b64b30ee7b0a"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -124,7 +124,7 @@
           "fr": "Liaison administrée et sécurisée entre ARCenal Portail et ARCenal QSSE pour Dolibarr",
           "en": "Managed secure connection between ARCenal Portal and ARCenal QSSE for Dolibarr"
         },
-        "version": "1.0.1~ynh1",
+        "version": "1.0.2~ynh1",
         "maintainers": [
           "ARCenal"
         ],
