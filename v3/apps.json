@@ -11,11 +11,11 @@
       "subtags": [],
       "antifeatures": [],
       "potential_alternative_to": [],
-      "lastUpdate": 1789111090,
+      "lastUpdate": 1789198800,
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalportail_ynh",
         "branch": "main",
-        "revision": "2a3afcd965f427076295dbd88352916f5f06d215"
+        "revision": "f774db304c7007dd78e09723c59a78e8e6a6a98c"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -26,7 +26,7 @@
           "fr": "Portail équipier QSSE relié au module Dolibarr ARCenal QSSE",
           "en": "Employee QSSE portal connected to the ARCenal QSSE Dolibarr module"
         },
-        "version": "0.4.14~ynh1",
+        "version": "0.4.15~ynh1",
         "maintainers": [
           "ARCenal"
         ],
