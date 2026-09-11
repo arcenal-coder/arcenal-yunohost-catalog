@@ -64,7 +64,7 @@
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalcatalog_ynh",
         "branch": "main",
-        "revision": "389161c0406beaabd03dafcdbc2085d1adb2f5cb"
+        "revision": "4e30b5245a5b4190c34fe4b7eeedeb057141198d"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -75,7 +75,7 @@
           "fr": "Ajoute le catalogue d’applications ARCenal à YunoHost",
           "en": "Adds the ARCenal application catalog to YunoHost"
         },
-        "version": "1.1.0~ynh1",
+        "version": "1.1.1~ynh1",
         "maintainers": [
           "ARCenal"
         ],
