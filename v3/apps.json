@@ -11,11 +11,11 @@
       "subtags": [],
       "antifeatures": [],
       "potential_alternative_to": [],
-      "lastUpdate": 1789120011,
+      "lastUpdate": 1789127899,
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalportail_ynh",
         "branch": "main",
-        "revision": "343a9ab22af9769b131147997e50b2443df2d444"
+        "revision": "86813342fcdcc622b0463f37d56c573de0db0e03"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -26,7 +26,7 @@
           "fr": "Portail équipier mobile ARCenal, relié au module Dolibarr ARCenal QSSE via ARCenal Bridge",
           "en": "Mobile ARCenal employee portal linked to the ARCenal QSSE Dolibarr module through ARCenal Bridge"
         },
-        "version": "1.0.2~ynh1",
+        "version": "1.0.3~ynh1",
         "maintainers": [
           "ARCenal"
         ],
@@ -60,11 +60,11 @@
       "subtags": [],
       "antifeatures": [],
       "potential_alternative_to": [],
-      "lastUpdate": 1789114730,
+      "lastUpdate": 1789127899,
       "git": {
         "url": "https://github.com/arcenal-coder/arcenalcatalog_ynh",
         "branch": "main",
-        "revision": "4e30b5245a5b4190c34fe4b7eeedeb057141198d"
+        "revision": "d5129679cb413960295353d2170dc5c27e696cf2"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -75,7 +75,7 @@
           "fr": "Ajoute le catalogue d’applications ARCenal à YunoHost",
           "en": "Adds the ARCenal application catalog to YunoHost"
         },
-        "version": "1.1.1~ynh1",
+        "version": "1.1.2~ynh1",
         "maintainers": [
           "ARCenal"
         ],
