@@ -146,6 +146,58 @@
           }
         }
       }
+    },
+    "arcenalqsserp": {
+      "id": "arcenalqsserp",
+      "level": 7,
+      "state": "working",
+      "maintained": true,
+      "high_quality": false,
+      "featured": true,
+      "category": "productivity_and_management",
+      "subtags": [],
+      "antifeatures": [],
+      "potential_alternative_to": [],
+      "lastUpdate": 1790930565,
+      "git": {
+        "url": "https://github.com/arcenal-coder/arcenal-qsserp_ynh",
+        "branch": "main",
+        "revision": "674505bd42025cc018a150cd163ea1c0123948ee"
+      },
+      "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
+      "manifest": {
+        "packaging_format": 2,
+        "id": "arcenalqsserp",
+        "name": "Vigilance",
+        "description": {
+          "fr": "Gestion SIRH, QSSE et radioprotection d'ARCenal System",
+          "en": "ARCenal System HR, QSSE and radiation protection management"
+        },
+        "version": "0.7.0~ynh1",
+        "maintainers": [
+          "ARCenal"
+        ],
+        "upstream": {
+          "license": "LicenseRef-ARCenal-Proprietary",
+          "code": "https://github.com/arcenal-coder/arcenal-qsserp"
+        },
+        "integration": {
+          "yunohost": ">= 12.1.17",
+          "helpers_version": "2.1",
+          "architectures": [
+            "amd64",
+            "arm64"
+          ],
+          "multi_instance": false,
+          "ldap": true,
+          "sso": true,
+          "disk": "250M",
+          "ram": {
+            "build": "50M",
+            "runtime": "128M"
+          }
+        }
+      }
     }
   },
   "categories": [],
