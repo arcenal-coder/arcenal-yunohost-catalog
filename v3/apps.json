@@ -158,22 +158,22 @@
       "subtags": [],
       "antifeatures": [],
       "potential_alternative_to": [],
-      "lastUpdate": 1790930565,
+      "lastUpdate": 1790931244,
       "git": {
         "url": "https://github.com/arcenal-coder/arcenal-qsserp_ynh",
         "branch": "main",
-        "revision": "674505bd42025cc018a150cd163ea1c0123948ee"
+        "revision": "f802a91771a287826641a1ed1a14a1958989cb58"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
         "packaging_format": 2,
         "id": "arcenalqsserp",
-        "name": "Vigilance",
+        "name": "VIGILance",
         "description": {
           "fr": "Gestion SIRH, QSSE et radioprotection d'ARCenal System",
           "en": "ARCenal System HR, QSSE and radiation protection management"
         },
-        "version": "0.7.0~ynh1",
+        "version": "0.7.1~ynh1",
         "maintainers": [
           "ARCenal"
         ],
