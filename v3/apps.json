@@ -210,11 +210,11 @@
       "subtags": [],
       "antifeatures": [],
       "potential_alternative_to": [],
-      "lastUpdate": 1791550426,
+      "lastUpdate": 1791801546,
       "git": {
         "url": "https://github.com/arcenal-coder/arcenal-report_ynh",
         "branch": "main",
-        "revision": "b2199ff32da4f81fdc416883553b6127f89ba13e"
+        "revision": "e4f559422b211ce98454a89670ce9205dd93c649"
       },
       "logo_hash": "cdb32141d5d7b3799f8f6710691014fb35ef7a6cf398a4ed91d29d145370e68e",
       "manifest": {
@@ -225,7 +225,7 @@
           "fr": "Main courante terrain, pièces jointes et préparation des rapports de mission",
           "en": "Field log, attachments and mission report preparation"
         },
-        "version": "0.1.0~ynh1",
+        "version": "0.1.1~ynh1",
         "maintainers": [
           "ARCenal"
         ],
